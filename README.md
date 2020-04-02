@@ -1,2 +1,2 @@
-# SayHelloo---Mini-Social-Media
+# SayHelloo-MiniSocialMedia
 University Project
